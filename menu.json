@@ -1,0 +1,44 @@
+{
+  "Monday": {
+    "Breakfast": "Kal Dosai/Sambar",
+    "Lunch": "White Rice/Mango Drumstick Sambar",
+    "Snacks": "Sambar Vada/Tea",
+    "Dinner": "Chapathi/Pepper Chicken NV"
+  },
+  "Tuesday": {
+    "Breakfast": "Idly/Medu Vada",
+    "Lunch": "Variety Rice/Vatha Kulambu",
+    "Snacks": "Boiled Corn/Coffee",
+    "Dinner": "Parotta/Egg Gravy NV"
+  },
+  "Wednesday": {
+    "Breakfast": "Pongal/Vada",
+    "Lunch": "Chicken Kulambu NV/Gobi 65",
+    "Snacks": "Samosa/Tea",
+    "Dinner": "Kal Dosai/Drumstick Sambar"
+  },
+  "Thursday": {
+    "Breakfast": "Idly/Medu Vada",
+    "Lunch": "Brinji Rice/Onion Raitha",
+    "Snacks": "Boiled Groundnut/Tea",
+    "Dinner": "Chapathi/Aloo Gobi"
+  },
+  "Friday": {
+    "Breakfast": "Rava Uppuma",
+    "Lunch": "White Rice/Mixed Veg Sambar",
+    "Snacks": "Onion Pakoda/Coffee",
+    "Dinner": "Dosai/Tomato Chutney"
+  },
+  "Saturday": {
+    "Breakfast": "Poori Chenna Masala",
+    "Lunch": "Bisibelebath/Beetroot Poriyal",
+    "Snacks": "Keera Vadi/Tea",
+    "Dinner": "Idiyappam/Black Sundal"
+  },
+  "Sunday": {
+    "Breakfast": "Onion Dosai",
+    "Lunch": "Chicken Biryani NV/Veg Biryani",
+    "Snacks": "White Channa/Tea",
+    "Dinner": "Idly/Veg Kurma"
+  }
+}
